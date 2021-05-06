@@ -35,3 +35,4 @@ Manages and keeps track of all payments and members
     $eb deploy
     $eb open
     ```
+- Static Code Analysis (with AWS CodeBuild):
