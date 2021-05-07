@@ -85,10 +85,10 @@ WSGI_APPLICATION = 'Gymnasium.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'cloudDevOpSec_db',
+        'NAME': 'clouddevopsdb',
         'USER': 'postgres',
         'PASSWORD': 'postgres',
-        'HOST':'clouddevopsec.c59yt2av3lqi.us-east-1.rds.amazonaws.com',
+        'HOST':'clouddevops-proj.c59yt2av3lqi.us-east-1.rds.amazonaws.com',
         'PORT':'5432'
     }
 }
